@@ -1,4 +1,4 @@
-# 🧮 GANITGuru
+# 🧮🔢 GANITGuru
 
 **GANITGuru** is a basic calculator built with HTML, CSS, and JavaScript. It supports simple arithmetic operations and features a clean, responsive interface.
 
