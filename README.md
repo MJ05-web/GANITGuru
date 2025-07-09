@@ -26,6 +26,14 @@
 
 This project uses `eval()` to evaluate expressions. For safety in real-world apps, consider using a math parser like [math.js](https://mathjs.org/).
 
+### ⚠️ SNAPS
+
+https://github.com/user-attachments/assets/164e59b9-78f5-49a1-8a89-5407120b220b
+
 ---
 
-**© 2025 MATHEMATICS | GANITGuru**
+**© 2025 | GANITGuru**
+
+
+
+
